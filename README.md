@@ -8,7 +8,7 @@ The board has not been tested yet, use at your own risk!
 
 ![components](https://github.com/eduardocasino/pal-2-sd-shield-adapter/blob/main/images/pal-2-sd-shield-adapter.png?raw=true)
 ![front](https://github.com/eduardocasino/pal-2-sd-shield-adapter/blob/main/images/pal-2-sd-shield-adapter-front.png?raw=true)
-![back](https://github.com/eduardocasino/pal-2-sd-shield-adapter/blob/main/images/pal-2-sd-shield-adapter.png?raw=true)
+![back](https://github.com/eduardocasino/pal-2-sd-shield-adapter/blob/main/images/pal-2-sd-shield-adapter-back.png?raw=true)
 
 
 ## Licensing
