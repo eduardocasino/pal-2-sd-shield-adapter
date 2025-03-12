@@ -4,6 +4,8 @@
 
 This is a simple adapter for connecting the [PAL-II](https://www.tindie.com/products/kim1/pal-2-a-mos-6502-powered-computer-kit/) (with a suitable daughterboard) to Corsham's SD Card Shield for 8-bit computers, either the original, [this replica](https://github.com/eduardocasino/sd-card-shield) or [this Raspberry Pi Pico based one](https://retro-spy.com/product/sd-card-system/).
 
+Also suitable for the [PAL-I](https://www.tindie.com/products/kim1/pal-1-a-mos-6502-powered-computer-kit/)  with the [second RIOT expansion](https://www.tindie.com/products/kim1/pal-1-2nd-riot-expansion-kit/).
+
 The board has not been tested yet, use at your own risk!
 
 ![components](https://github.com/eduardocasino/pal-2-sd-shield-adapter/blob/main/images/pal-2-sd-shield-adapter.png?raw=true)
